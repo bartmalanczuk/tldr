@@ -23,7 +23,7 @@ Only the left-alignment of the header gets lost and has to be readded again (`|-
 | ml    |                      |                        |                                   |           |                   |
 | nl    | pad/naar/bestand     | pad/naar/directory     | pad/naar/bestand_of_directory     |           |                   |
 | no    |                      |                        |                                   |           |                   |
-| pl    |                      |                        |                                   |           |                   |
+| pl    | ścieżka/do/pliku     | ścieżka/do/katalogu    | ścieżka/do/pliku_lub_katalogu     | pakiet    | nazwa_użytkownika |
 | pt_BR | caminho/para/arquivo | caminho/para/diretorio | caminho/para/arquivo_ou_diretorio | pacote    |                   |
 | pt_PT |                      |                        |                                   |           |                   |
 | ro    |                      |                        |                                   |           |                   |
@@ -35,5 +35,5 @@ Only the left-alignment of the header gets lost and has to be readded again (`|-
 | th    |                      |                        |                                   |           |                   |
 | tr    |                      |                        |                                   |           |                   |
 | uk    |                      |                        |                                   |           |                   |
-| zh    | 路径/到/文件         | 路径/到/目录           | 路径/到/文件或目录                | 包        | 用户名        |
-| zh_TW | 檔案/完整/路徑       | 目錄/完整/路徑         | 檔案或目錄/完整/路徑              | 套件      | 使用者名稱    |
+| zh    | 路径/到/文件              | 路径/到/目录                | 路径/到/文件或目录                        | 包         | 用户名               |
+| zh_TW | 檔案/完整/路徑             | 目錄/完整/路徑               | 檔案或目錄/完整/路徑                       | 套件        | 使用者名稱             |
